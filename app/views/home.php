@@ -17,7 +17,7 @@
                 <div class="box-title">
                     <div class="title-bar">
                         <h1>Sách bán chạy</h1>
-                        <a class="read_more" href="<?php echo BASE_URL ?>/sanpham/sanphambanchay">Xem thêm </a>
+                        <a class="read_more" href="<?php echo BASE_URL ?>/sanpham/sanphambanchay">Xem </a>
                     </div>
                 </div>
                 
