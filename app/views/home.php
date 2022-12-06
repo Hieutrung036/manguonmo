@@ -14,12 +14,7 @@
                         <a class="read_more" href="<?php echo BASE_URL ?>/sanpham/sanphamhot">Xem thêm </a>
                     </div>
                 </div>
-                <div class="box-title">
-                    <div class="title-bar">
-                        <h1>Sách bán chạy</h1>
-                        <a class="read_more" href="<?php echo BASE_URL ?>/sanpham/sanphambanchay">Xem </a>
-                    </div>
-                </div>
+                
                 
                 <div class="pro_all_gird">
                     <div class="girds_all list_all_other_page home_product">
